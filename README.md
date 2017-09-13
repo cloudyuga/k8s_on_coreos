@@ -1,1 +1,1 @@
-# k8s_on_coreos
+Tested and working
